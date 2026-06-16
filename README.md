@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Jeison Poveda</h1>
 <h3 align="center">Un apasionado UX Developer | React, Rails, NodeJS, Figma</h3>
 
-- 🔭 Actualmente trabajo con **It Globers**
+- 🔭 Actualmente trabajo con **Diners Club**
 
 <h3 align="left">Connecta conmigo:</h3>
 <p align="left">
